@@ -8,10 +8,6 @@
 	<string>2</string>
 	<key>PlexClientPlatforms</key>
 	<string>*</string>
-	<key>PlexMediaContainer</key>
-	<array>
-		<string>Flash</string>
-	</array>
 	<key>PlexPluginCodePolicy</key>
 	<string>Elevated</string>
 </dict>
